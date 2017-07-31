@@ -1,7 +1,5 @@
 # docker-nginx
 
-
-
 Base Image: nginx:mainline-alpine
 
 Docker Pull Command
