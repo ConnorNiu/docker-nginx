@@ -5,5 +5,5 @@ Base Image: nginx:mainline-alpine
 Docker Pull Command
 
 ```bash
-docker pull connorniu/nginx
+docker pull songshenzong/nginx
 ```
