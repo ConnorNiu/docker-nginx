@@ -5,7 +5,7 @@ RUN apk add --update bash
 RUN rm -rf /var/cache/apk/*
 
 # Maintainer
-MAINTAINER Connor <connor.niu@gmail.com>
+MAINTAINER Songshenzong <i@songshenzong.com>
 
 # Work Directory
 WORKDIR /var/www/html
