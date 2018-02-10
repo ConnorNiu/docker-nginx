@@ -1,6 +1,9 @@
 # Docker Image packaging for Nginx
 
 
+![docker hub](https://img.shields.io/docker/pulls/songshenzong/nginx.svg?style=flat-square)
+![docker hub](https://img.shields.io/docker/stars/songshenzong/nginx.svg?style=flat-square)
+
 ##### 基于官方镜像 Based Official Image
 
 ```bash
