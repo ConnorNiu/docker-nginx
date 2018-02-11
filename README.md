@@ -1,9 +1,9 @@
-<p align="center"><a href="https://songshenzong.com" target="_blank"><img src="https://songshenzong.com/images/logo.png"></a></p>
+[![Songshenzong](https://songshenzong.com/images/logo.png)](https://songshenzong.com)
 
-<p align="center">
-<a href="https://hub.docker.com/r/songshenzong/nginx/"><img src="https://img.shields.io/docker/pulls/songshenzong/nginx.svg?style=flat-square" alt="Docker Stars"></a>
-<a href="https://hub.docker.com/r/songshenzong/nginx/"><img src="https://img.shields.io/docker/stars/songshenzong/nginx.svg?style=flat-square" alt="Docker Pulls"></a>
-</p>
+[![Docker Stars](https://img.shields.io/docker/stars/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
+[![Docker Automated build](https://img.shields.io/docker/automated/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
+[![Docker Build Status](https://img.shields.io/docker/build/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
 
 ## 关于 About
 Docker Image packaging for Nginx
