@@ -1,4 +1,4 @@
-[![Songshenzong](https://songshenzong.com/images/logo.png)](https://songshenzong.com)
+[![Songshenzong](https://cdn.songshenzong.com/images/logo.png)](https://songshenzong.com)
 
 [![Docker Stars](https://img.shields.io/docker/stars/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/songshenzong/nginx.svg?style=flat-square)](https://hub.docker.com/r/songshenzong/php/)
